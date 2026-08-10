@@ -6,6 +6,10 @@ The application turns fragmented program, flow, quality, reliability, security, 
 
 > Public reference implementation based on enterprise operating patterns. Every organization, program, person, and data point is fictional and synthetic.
 
+**Live application:** [engineering-control-tower.vercel.app](https://engineering-control-tower.vercel.app)
+
+![Engineering Control Tower preview](public/og.png)
+
 ## What V1 demonstrates
 
 - Executive engineering health overview
